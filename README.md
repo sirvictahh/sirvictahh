@@ -2,7 +2,7 @@
 <h3 align="center">(soon to be) Full-Stack Programmer & Software Developer</h3>
 
 <p>
-    <code style="background-color: #0a0c10;">
+    <code style="foreground-color: #0a0c10;">
           %..  ,
           %..,....  *
           ,,,,......*          .
