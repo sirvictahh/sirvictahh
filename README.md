@@ -2,7 +2,7 @@
 <h3 align="center">(soon to be) Full-Stack Programmer & Software Developer</h3>
 
 
-<div style = "float: left;">
+<span>
                     %..  ,              
                     %..,....  *                
                     ,,,,......*          .      
@@ -34,7 +34,7 @@
 ,,*(&%##%(#&%%&&%@@&%&&#/&(#&%&%&%,  .  .   
 .,*//####(#%%%&&&&%&@@&%%,#&%*#(*//(   
 ..,,*/#((#(#..,,,,,,*,*,...**/,/*//// 
-</div>
+</span>
 
 
 
