@@ -56,3 +56,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="AfterEffects" width="40" height="40"/>
   </a>
 </p>
+
+<div align="center">
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirvictahh&layout=compact)](https://github.com/sirvictahh/github-readme-stats)
+  
+</div>
