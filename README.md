@@ -1,4 +1,4 @@
-<p><h1 align="center">Hi 👋, I'm João Víctor Maia <img height="40" src="https://64.media.tumblr.com/3848e5ce9550ab723c4c17ae5c2c830d/cbbf628e3f78039b-9c/s1280x1920/b184a988a5bd644f8a98544c2624d362aef3094c.gifv"></h1>
+<h1 align="center">Hi 👋, I'm João Víctor Maia <img height="40" src="https://64.media.tumblr.com/3848e5ce9550ab723c4c17ae5c2c830d/cbbf628e3f78039b-9c/s1280x1920/b184a988a5bd644f8a98544c2624d362aef3094c.gifv"></h1>
 <h3 align="center">(soon to be) Full-Stack Programmer & Software Developer</h3>
 
 <p style="float: left;">
@@ -37,13 +37,15 @@
         <span style="color:#141414;"> </span><span style="color:#1E1E1E;">.</span><span style="color:#1C1C1C;">.</span><span style="color:#393939;">,</span><span style="color:#3C3C3C;">,</span><span style="color:#5B5B5B;">*</span><span style="color:#757575;">/</span><span style="color:#9D9D9D;">#</span><span style="color:#838383;">(</span><span style="color:#898989;">(</span><span style="color:#A0A0A0;">#</span><span style="color:#8C8C8C;">(</span><span style="color:#A2A2A2;">#</span><span style="color:#222222;">.</span><span style="color:#252525;">.</span><span style="color:#353535;">,</span><span style="color:#343434;">,</span><span style="color:#343434;">,</span><span style="color:#3D3D3D;">,</span><span style="color:#383838;">,</span><span style="color:#484848;">,</span><span style="color:#585858;">*</span><span style="color:#4A4A4A;">,</span><span style="color:#525252;">*</span><span style="color:#3A3A3A;">,</span><span style="color:#303030;">.</span><span style="color:#252525;">.</span><span style="color:#262626;">.</span><span style="color:#525252;">*</span><span style="color:#4E4E4E;">*</span><span style="color:#6F6F6F;">/</span><span style="color:#4C4C4C;">,</span><span style="color:#6C6C6C;">/</span><span style="color:#5A5A5A;">*</span><span style="color:#6C6C6C;">/</span><span style="color:#6E6E6E;">/</span><span style="color:#7E7E7E;">/</span><span style="color:#777777;">/</span><span style="color:#121212;"> </span><span style="color:#0B0B0B;"> </span><span style="color:#0C0C0C;"> </span><span style="color:#0E0E0E;"> </span><span style="color:#0C0C0C;"> </span><span style="color:#141414;"> </span><span style="color:#101010;"> </span><span style="color:#0A0A0A;"> </span><span style="color:#0C0C0C;"> </span><span style="color:#0F0F0F;"> </span><span style="color:#0C0C0C;"> </span><span style="color:#0B0B0B;"> </span><span style="color:#0C0C0C;"> </span><span style="color:#0F0F0F;"> </span><span style="color:#0E0E0E;"> </span><span style="color:#0D0D0D;"> </span><span style="color:#0F0F0F;"> </span><span style="color:#0F0F0F;"> </span><span style="color:#151515;"> </span><span style="color:#111111;"> </span><span style="color:#151515;"> </span><span style="color:#1F1F1F;">.</span><span style="color:#202020;">.</span><span style="color:#242424;">.</span><span style="color:#272727;">.</span><span style="color:#2C2C2C;">.</span><span style="color:#303030;">.</span><span style="color:#343434;">,</span><span style="color:#2E2E2E;">.</span><span style="color:#313131;">.</span><span style="color:#323232;">.</span><span style="color:#3D3D3D;">,</span><span style="color:#2F2F2F;">.</span><span style="color:#313131;">.</span><span style="color:#222222;">.</span><span style="color:#1E1E1E;">.</span><span style="color:#1E1E1E;">.</span><span style="color:#1B1B1B;">.</span><span style="color:#151515;"> </span><span style="color:#151515;">  </span></code>
 </p>
 
-- 🌱 I’m currently studying Computer Science and Engineering at **IPT - Instituto Politécnico de Tomar**
+<p>
+    - 🌱 I’m currently studying Computer Science and Engineering at **IPT - Instituto Politécnico de Tomar**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+    - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **joaovictormaia2004@hotmail.com**
+    - 📫 How to reach me: **joaovictormaia2004@hotmail.com**
 
-- ⚡ What I like to do: **Go out with friends and learn new useless/meaningless little things!**
+    - ⚡ What I like to do: **Go out with friends and learn new useless/meaningless little things!**
+</p>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -98,4 +100,3 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sirvictahh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-</p>
