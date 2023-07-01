@@ -2,19 +2,6 @@
 <html>
 <head>
   <title>João Víctor Maia - Portfolio</title>
-  <style>
-    pre {
-      color: #000;
-    }
-
-    span.light {
-      color: #555;
-    }
-
-    span.lighter {
-      color: #999;
-    }
-  </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm João Víctor Maia <img height="40" src="https://64.media.tumblr.com/3848e5ce9550ab723c4c17ae5c2c830d/cbbf628e3f78039b-9c/s1280x1920/b184a988a5bd644f8a98544c2624d362aef3094c.gifv"></h1>
@@ -60,6 +47,10 @@
   .,*//####(#%%%&&&&%&@@&%%,#&%*#(*//(                         ....,,,,,,,,,,,. 
  ..,,*/#((#(#..,,,,,,*,*,...**/,/*////                     ......,...,......    "
   </pre>
+</body>
+</html>
+
+
   <h3 align="center">Connect with me:</h3>
   <div align="center">
     [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADctor-maia-3726b0281/)
