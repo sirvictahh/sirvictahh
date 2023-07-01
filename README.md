@@ -35,12 +35,13 @@
 .,*//####(#%%%&&&&%&@@&%%,#&%*#(*//(   
 ..,,*/#((#(#..,,,,,,*,*,...**/,/*////
 </pre>
+</div>
+
 <div align="center" style="float: right;">
   
     [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sirvictahh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-      
-    </div>
-</div>
+   
+ </div>
 
 - 🌱 I’m currently studying Computer Science and Engineering at **IPT - Instituto Politécnico de Tomar**
 
