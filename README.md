@@ -2,7 +2,7 @@
 <h3 align="center">(soon to be) Full-Stack Programmer & Software Developer</h3>
 
 <div>
-  <pre style="float: left;">
+  <pre>
                     %..  ,
                     %..,....  *
                     ,,,,......*          .
@@ -35,13 +35,13 @@
 .,*//####(#%%%&&&&%&@@&%%,#&%*#(*//(   
 ..,,*/#((#(#..,,,,,,*,*,...**/,/*////
 </pre>
-</div>
 
-<div align="center" style="float: right;">
+<div align="center">
   
     [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sirvictahh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-   
- </div>
+      
+    </div>
+</div>
 
 - 🌱 I’m currently studying Computer Science and Engineering at **IPT - Instituto Politécnico de Tomar**
 
