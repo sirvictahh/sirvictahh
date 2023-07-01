@@ -2,55 +2,54 @@
 <html>
 <head>
   <title>João Víctor Maia - Portfolio</title>
-  <style>
-    pre {
-      color: #000;
-    }
-
-    span.light {
-      color: #555;
-    }
-
-    span.lighter {
-      color: #999;
-    }
-  </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm João Víctor Maia <img height="40" src="https://64.media.tumblr.com/3848e5ce9550ab723c4c17ae5c2c830d/cbbf628e3f78039b-9c/s1280x1920/b184a988a5bd644f8a98544c2624d362aef3094c.gifv"></h1>
 
   <h3 align="center">(soon to be) Full-Stack Programmer & Software Developer</h3>
 
-  <pre align="center">
-                        <span class="light">%..  ,</span>
-                     <span class="light">%..,....</span>  *
-                     <span class="lighter">,,,,......*</span>          .
-                    <span class="lighter">/,,,.......</span>                        .  .
-                    <span class="lighter">,,,,..,,....</span>            . .(, ,/...
-                   <span class="lighter">.,,.........</span>,  .  .   ../*(.,..###%. *
-                   <span class="lighter">,,,.,.,.....</span>   .,,/ ..((/##,.,,#%&%#/,
-                 <span class="lighter">.,,...,......</span>      #%(***(%#%#//(###,(*/,
-                 <span class="lighter">.,..........,</span>  .    (#,*#(%%&%%%(#((.,/,.
-          .     .<span class="lighter">,........,,*.</span> #..  .#(,((##%%%##%&%%*(#(
-               # <span class="lighter">,....,..,., .,/</span> %(*,(#,*/#%&(/&&&#(/./#,
-                /<span class="lighter">.. ....,. (/@</span>/&@&(&//#%/,//%%###/((.(*
-                   (<span class="lighter">../%%%@@@%</span>@&@@@@((#%(#***#%%%((,
-              (<span class="lighter">....,#&&%@%</span>&@&#@@%&@##%((%/*,#
-           .. ..(<span class="lighter">((%%@&&@&&@&</span>@&@@@@/(%///@@@@%
-          ....<span class="lighter">&&%%%%%@@@</span>&@@&@&@%&@&@@@/,(*@@&&#%
-        ...  <span class="lighter">&amp;&amp;&amp;&#35;&#35;&#35;%@</span>&amp;&#37;&&amp;@&&amp;@%%&amp;&amp;@&amp;&amp;&amp;%@&&amp;&&amp;@&amp;&amp;&&amp;@@&
-          . <span class="lighter">%%&amp;%#&amp;%%</span>&amp;@@&amp;@&amp;@&amp;@@&amp;@%&amp;@@#&amp;(&amp;&amp;%&amp;@&amp;&amp;&amp;@&&amp;&&amp;&amp;%
-        .<span class="lighter">#%%&&amp;&#35;#%%@</span>&amp;%&amp;@&amp;&amp;@&amp;@&amp;&&amp;&amp;@&#37;@&&amp;&&amp;&amp;@/##.......
-       ./<span class="lighter">##@&amp;@@%</span>%%%@&amp;@&amp;&amp;@@&amp;@@&amp;&amp;@&amp;&amp;@/&#37;@@&&amp;&&amp;@&#47;## .......
-       ,#(<span class="lighter">%&amp;%#&amp;%%%</span>&amp;&amp;&amp;@@&amp;@&amp;@&amp;@&amp;&&amp;@&amp;&amp;%&#37;&&amp;&amp;@&amp;&amp;@..  .......
-     . /<span class="lighter">%#%&amp;&amp;</span>#%%&&amp;@&amp;@%&amp;@@&#37;&#38;@&#64;&amp;@@@@@&#47;&#47;&#64;&#64;&#64;&amp;&amp;@
-.     ,#((%#<span class="lighter">(#&amp;%%</span>&amp;%@@&amp;%&amp;@&#37;&amp;&amp;&#64;&#64;&#64;&#47;&#37;@&amp;&amp;&amp;%&#37;&#37;&#37;&#47;&#47;&#64;..
-     .*/(##/<span class="lighter">&amp;&#64;&#64;&#64;</span>&amp;&#64;&amp;&#64;&amp;&amp;&#64;&#64;&#64;&#38;&#64;&amp;&#64;&amp;&amp;&#64;&amp;&#64;&#64;&#38;&#64;
-    .,(((#(<span class="lighter">%@</span>&#37;&#37;&#37;&#64;&#64;&#64;</span>&amp;&#64;&amp;&amp;&#64;&#64;&#64;&amp;&#37;&#64;&#64;&#64;&amp;&amp;&#37;&#37;&#47;&#47;&#47;&#64;
-    ,,*(&amp;%##%(<span class="lighter">#&amp;</span>%&amp;@@&amp;%&&amp;/&amp;(</span>#&amp;%&amp;%&amp;%,  .  .                       ..       ...
-  .,*//####(<span class="lighter">#</span>..,,,,,,*,*,...</span>**/,/*////                     ......,...,......    
- ..,,*/#((#(<span class="lighter">#</span>....,,,,,,,.</span>......,...,......    "
+  <!DOCTYPE html>
+<html>
+<head>
+  <title>ASCII Art</title>
+</head>
+<body>
+  <pre>
+                        %..  ,                                                  
+                     %..,....  *                                                
+                     ,,,,......*          .                                     
+                    /,,,.......                        .  .                     
+                    ,,,,..,,....            . .(, ,/...                         
+                   .,,.........,  .  .   ../*(.,..###%. *                       
+                   ,,,.,.,.....   .,,/ ..((/##,.,,#%&%#/,                       
+                 .,,...,......      #%(***(%#%#//(###,(*/, .                    
+                 .,..........,  .    (#,*#(%%&%%%(#((.,/,.                      
+          .     .,........,,*. #..  .#(,((##%%%##%&%%*(#(                       
+               # ,....,..,., .,/ %(*,(#,*/#%&(/&&&#(/./#,                       
+                /.. ....,. (/@/&@&(&//#%/,//%%###/((.(*                         
+                   (../%%%@@@%@&@@@@((#%(#***#%%%((,                            
+              (....,#&&%@%&&&@&#@@%&@##%((%/*,#                                 
+           .. ..((%%@&&@&&@&@&&@&@@@@/(%///@@@@%                                
+          ....&&%%%%%@@@&@@&@&@%&@&@@@/,(*@@&&#%                                
+        ...  &&&&&#&@&&@@@@&&@%%&&@&&&%@&&&&@@&                                 
+          . %%&%#&%%&@@&&@@&@&@&@&&@&@%&%&&&&&%                                 
+           #&&%%(%%&@%&@&@&&@&@@&%@@#@#&(&&%&@&  ,.                             
+         .*%%%%%#&&@&&@&@@&@@@#@@@@@@&&##(%@&&% .,,..                           
+         .%%%@#&#@@#&@@&@&@&@@&@@@&%&@&((&&%#%/ ,,,,,                           
+        .#%%&&&#%%@@&%@@@%@@&#&&&&&#&@&*%@&(*& .,.....                          
+       ./##@&@@%%%%@&@&&&@@@%@%@@@%&&&&&&&@/## .......                          
+       ,#(%&%#&%%%&&&@@&&@@%%(/%#&#%&&%&%%%%/ .......                           
+     . /%#%&&&&@%&&%&@&@&&%&#&(%&%&&@&&(%//#  .......                           
+.     ,#((%#%%@&%&&&%&@&&&@#%&#&&@&&%%#/* ( .  .....                            
+     .*/(##/&%&&%%%&&&&&%@&%&,%%&&%&%&# / /                                     
+    .,(((#(%@%%&&@&@%&@&&&&&&.%##&%%&(* .   .                                   
+    ,,*(&%##%(#&%%&&%@@&%&&#/&(#&%&%&%,  .  .                       ..       ...
+  .,*//####(#%%%&&&&%&@@&%%,#&%*#(*//(                         ....,,,,,,,,,,,. 
+ ..,,*/#((#(#..,,,,,,*,*,...**/,/*////                     ......,...,......    "
   </pre>
+</body>
+</html>
+
 
   <h3 align="center">Connect with me:</h3>
   <div align="center">
