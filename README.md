@@ -2,14 +2,14 @@
 <h3 align="center">(soon to be) Full-Stack Programmer & Software Developer</h3>
 
 
-<pre>
+
                     %..  ,              
                     %..,....  *                
                     ,,,,......*          .      
-                /,,,.......                        .  .                    - 🌱 I’m currently studying Computer Science and Engineering at **IPT - Instituto Politécnico de Tomar**     
-                ,,,,..,,....            . .(, ,/...                        - 👯 I’m looking to collaborate on **front-end and back-end projects**
-                .,,.........,  .  .   ../*(.,..###%. *                     - 📫 How to reach me: **joaovictormaia2004@hotmail.com**
-                ,,,.,.,.....   .,,/ ..((/##,.,,#%&%#/,                     - ⚡ What I like to do: **Go out with friends and learn new useless/meaningless little things!**
+                /,,,.......                        .  . 
+                ,,,,..,,....            . .(, ,/...    
+                .,,.........,  .  .   ../*(.,..###%. * 
+                ,,,.,.,.....   .,,/ ..((/##,.,,#%&%#/, 
                 .,,...,......      #%(***(%#%#//(###,(*/, . 
                 .,..........,  .    (#,*#(%%&%%%(#((.,/,. 
         .     .,........,,*. #..  .#(,((##%%%##%&%%*(#( 
@@ -34,7 +34,7 @@
 ,,*(&%##%(#&%%&&%@@&%&&#/&(#&%&%&%,  .  .   
 .,*//####(#%%%&&&&%&@@&%%,#&%*#(*//(   
 ..,,*/#((#(#..,,,,,,*,*,...**/,/*//// 
-</pre>
+
 
 
 
