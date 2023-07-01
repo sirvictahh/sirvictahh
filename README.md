@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm João Víctor Maia <img height="40" src="https://64.media.tumblr.com/3848e5ce9550ab723c4c17ae5c2c830d/cbbf628e3f78039b-9c/s1280x1920/b184a988a5bd644f8a98544c2624d362aef3094c.gifv"></h1>
 
 <h3 align="center">(soon to be) Full-Stack Programmer & Software Developer</h3>
-<div>
+<pre>
                     %..  ,                                                  
                     %..,....  *                                                
                     ,,,,......*          .                                     
@@ -34,7 +34,7 @@
 ,,*(&%##%(#&%%&&%@@&%&&#/&(#&%&%&%,  .  .                       ..       ...
 .,*//####(#%%%&&&&%&@@&%%,#&%*#(*//(                         ....,,,,,,,,,,,. 
 ..,,*/#((#(#..,,,,,,*,*,...**/,/*////                     ......,...,......    "
-</div>
+</pre>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
