@@ -1,5 +1,5 @@
 
-<a href="https://linktr.ee/sirvictahh">
+<a href="https://linktr.ee/sirvictahh" target="_blank">
   <object href="https://linktr.ee/sirvictahh" type="image/svg+xml">
     <img alt="João Víctor Maia's GitHub Profile README" src="https://raw.githubusercontent.com/sirvictahh/sirvictahh/main/maia.svg">
   </object>
