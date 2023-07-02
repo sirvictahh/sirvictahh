@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1100px" height="550px" font-size="16px">
+    <style>
+    .keyColor {fill: #ffa657;}
+    .valueColor {fill: #a5d6ff;}
+    .addColor {fill: #3fb950;}
+    .delColor {fill: #f85149;}
+    .commentColor {fill: #8b949e;}
+    text, tspan {white-space: pre;}
+    </style>
+    
+    <rect width="1100px" height="530px" fill="#000000" rx="15"/>
+    
+    <text x="15" y="30" fill="#c9d1d9" class="ascii">
+    <tspan x="15" y="30">                    %..  ,                                                  </tspan>
+    <tspan x="15" y="50">                 %..,....  *                                                </tspan>
+    <tspan x="15" y="70">                 ,,,,......*          .                                     </tspan>
+    <tspan x="15" y="90">                /,,,.......                        .  .                     </tspan>
+    <tspan x="15" y="110">               ,,,,..,,....            . .(, ,/...                         </tspan>
+    <tspan x="15" y="130">              .,,.........,  .  .   ../*(.,..###%. *                        </tspan>
+    <tspan x="15" y="150">              ,,,.,.,.....   .,,/ ..((/##,.,,#%&%#/,                       </tspan>
+    <tspan x="15" y="170">            .,,...,......      #%(***(%#%#//(###,(*/, .                    </tspan>
+    <tspan x="15" y="190">            .,..........,  .    (#,*#(%%&%%%(#((.,/,.                      </tspan>
+    <tspan x="15" y="210">     .     .,........,,*. #..  .#(,((##%%%##%&%%*(#(                       </tspan>
+    <tspan x="15" y="230">          # ,....,..,., .,/ %(*,(#,*/#%&(/&&&#(/./#,                       </tspan>
+    <tspan x="15" y="250">           /.. ....,. (/@/&@&(&//#%/,//%%###/((.(*                         </tspan>
+    <tspan x="15" y="270">              (../%%%@@@%@&@@@@((#%(#***#%%%((,                            </tspan>
+    <tspan x="15" y="290">         (....,#&&%@%&&&@&#@@%&@##%((%/*,#                                 </tspan>
+    <tspan x="15" y="310">      .. ..((%%@&&@&&@&@&&@&@@@@/(%///@@@@%                                </tspan>
+    <tspan x="15" y="330">     ....&&%%%%%@@@&@@&@&@%&@&@@@/,(*@@&&#%                                </tspan>
+    <tspan x="15" y="350">   ...  &&&&&#&@&&@@@@&&@%%&&@&&&%@&&&&@@&                                 </tspan>
+    <tspan x="15" y="370">     . %%&%#&%%&@@&&@@&@&@&@&&@&@%&%&&&&&%                                 </tspan>
+    <tspan x="15" y="390">      #&&%%(%%&@%&@&@&&@&@@&%@@#@#&(&&%&@&  ,.                             </tspan>
+    <tspan x="15" y="410">    .*%%%%%#&&@&&@&@@&@@@#@@@@@@&&##(%@&&% .,,..                           </tspan>
+    <tspan x="15" y="430">    .%%%@#&#@@#&@@&@&@&@@&@@@&%&@&((&&%#%/ ,,,,,                           </tspan>
+    <tspan x="15" y="450">   .#%%&&&#%%@@&%@@@%@@&#&&&&&#&@&*%@&(*& .,.....                          </tspan>
+    <tspan x="15" y="470">  ./##@&@@%%%%@&@&&&@@@%@%@@@%&&&&&&&@/## .......                          </tspan>
+    <tspan x="15" y="490">  ,#(%&%#&%%%&&&@@&&@@%%(/%#&#%&&%&%%%%/ .......                           </tspan>
+    <tspan x="15" y="510">. /%#%&&&&@%&&%&@&@&&%&#&(%&%&&@&&(%//#  .......                           </tspan>
+    </text>
+    
+    <image x="530" y="480" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="html5" width="40" height="40"></image>
+    <image x="580" y="480" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="html5" width="40" height="40"></image>
+    <image x="630" y="480" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="html5" width="40" height="40"></image>
+    <image x="680" y="480" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="html5" width="40" height="40"></image>
+    <image x="730" y="480" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="html5" width="40" height="40"></image>
+
+    
+    <image x="700" y="145" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="html5" width="40" height="40"></image>
+    <image x="750" y="145" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></image>
+    <image x="800" y="145" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"></image>
+    <image x="850" y="145" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="html5" width="40" height="40"></image>
+    <image x="900" y="145" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html5" width="40" height="40"></image>
+    <image x="950" y="145" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="html5" width="40" height="40"></image>
+    <image x="1000" y="145" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="html5" width="40" height="40"></image>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADctor-maia-3726b0281/"><image x="530" y="400" href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html5" width="123" height="28"></image></a>
+    <a href="https://www.instagram.com/sirvictahh/"><image x="660" y="400" href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="html5" width="123" height="28"></image></a>
+    <a href="https://stackoverflow.com/users/14470113/sirvictahh"><image x="790" y="400" href="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="html5" width="123" height="28"></image></a>
+    <text x="530" y="30" fill="#c9d1d9">
+    <tspan x="530" y="30">joão@maia</tspan>
+    <tspan x="530" y="50">——————</tspan>
+    <tspan x="530" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
+    <tspan x="530" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years</tspan>
+    <tspan x="530" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Instituto Politécnico de Tomar</tspan><tspan class="commentColor"> #IPT</tspan>
+    <tspan x="530" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science and Engineering</tspan>
+    <tspan x="530" y="175" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor"></tspan>
+    <tspan x="530" y="215" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Portuguese, English, Spanish, French</tspan>
+    <tspan x="530" y="255" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Learn, Troubleshoot</tspan>
+    <tspan x="530" y="295" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Get Drunk, Sleep</tspan>
+    <tspan x="530" y="330" class="keyColor">Contact</tspan>:
+    <tspan x="530" y="350">——————</tspan>
+    <tspan x="530" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">joaovictormaia2004@hotmail.com</tspan>
+    <tspan x="530" y="390" class="keyColor">Discord</tspan>: <tspan class="valueColor">sirvictahh</tspan>
+    <tspan x="530" y="450" class="keyColor"><tspan class="commentColor">some</tspan>Tools</tspan>:
+    <tspan x="530" y="470">——————</tspan>
+    
+    </svg>
