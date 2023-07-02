@@ -5,11 +5,10 @@
     </picture>
   </a>
   
-  <div style="align: center">
-    <span><img src="./aligner.png" width=10 /></span> <!--invisible-->
-  <span><img class="img" src="https://github-readme-stats.vercel.app/api?username=sirvictahh&show_icons=true&theme=vision-friendly-dark" /></span>
-  <span><img src="./aligner.png" height=50 width=100 /></span> <!--invisible-->
-  <span><img class="img" style="height:196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvictahh&theme=vision-friendly-dark&layout=compact" /></span>
+  <div style="width: 1070; padding-left: 7;">
+  
+  <img class="img"  style="height: auto; width: 50%; padding-right: 49;" src="https://github-readme-stats.vercel.app/api?username=sirvictahh&show_icons=true&theme=vision-friendly-dark" />
+  <img class="img"  style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvictahh&theme=vision-friendly-dark&layout=compact" />
     
   </div>
   
