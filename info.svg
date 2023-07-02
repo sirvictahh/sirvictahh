@@ -1,76 +1,2392 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1100px" height="550px" font-size="16px">
-    <style>
-    .keyColor {fill: #ffa657;}
-    .valueColor {fill: #a5d6ff;}
-    .addColor {fill: #3fb950;}
-    .delColor {fill: #f85149;}
-    .commentColor {fill: #8b949e;}
-    text, tspan {white-space: pre;}
-    </style>
-    
-    <rect width="1100px" height="530px" fill="#000000" rx="15"/>
-    
-    <text x="15" y="30" fill="#c9d1d9" class="ascii">
-    <tspan x="15" y="30">                    %..  ,                                                  </tspan>
-    <tspan x="15" y="50">                 %..,....  *                                                </tspan>
-    <tspan x="15" y="70">                 ,,,,......*          .                                     </tspan>
-    <tspan x="15" y="90">                /,,,.......                        .  .                     </tspan>
-    <tspan x="15" y="110">               ,,,,..,,....            . .(, ,/...                         </tspan>
-    <tspan x="15" y="130">              .,,.........,  .  .   ../*(.,..###%. *                        </tspan>
-    <tspan x="15" y="150">              ,,,.,.,.....   .,,/ ..((/##,.,,#%&%#/,                       </tspan>
-    <tspan x="15" y="170">            .,,...,......      #%(***(%#%#//(###,(*/, .                    </tspan>
-    <tspan x="15" y="190">            .,..........,  .    (#,*#(%%&%%%(#((.,/,.                      </tspan>
-    <tspan x="15" y="210">     .     .,........,,*. #..  .#(,((##%%%##%&%%*(#(                       </tspan>
-    <tspan x="15" y="230">          # ,....,..,., .,/ %(*,(#,*/#%&(/&&&#(/./#,                       </tspan>
-    <tspan x="15" y="250">           /.. ....,. (/@/&@&(&//#%/,//%%###/((.(*                         </tspan>
-    <tspan x="15" y="270">              (../%%%@@@%@&@@@@((#%(#***#%%%((,                            </tspan>
-    <tspan x="15" y="290">         (....,#&&%@%&&&@&#@@%&@##%((%/*,#                                 </tspan>
-    <tspan x="15" y="310">      .. ..((%%@&&@&&@&@&&@&@@@@/(%///@@@@%                                </tspan>
-    <tspan x="15" y="330">     ....&&%%%%%@@@&@@&@&@%&@&@@@/,(*@@&&#%                                </tspan>
-    <tspan x="15" y="350">   ...  &&&&&#&@&&@@@@&&@%%&&@&&&%@&&&&@@&                                 </tspan>
-    <tspan x="15" y="370">     . %%&%#&%%&@@&&@@&@&@&@&&@&@%&%&&&&&%                                 </tspan>
-    <tspan x="15" y="390">      #&&%%(%%&@%&@&@&&@&@@&%@@#@#&(&&%&@&  ,.                             </tspan>
-    <tspan x="15" y="410">    .*%%%%%#&&@&&@&@@&@@@#@@@@@@&&##(%@&&% .,,..                           </tspan>
-    <tspan x="15" y="430">    .%%%@#&#@@#&@@&@&@&@@&@@@&%&@&((&&%#%/ ,,,,,                           </tspan>
-    <tspan x="15" y="450">   .#%%&&&#%%@@&%@@@%@@&#&&&&&#&@&*%@&(*& .,.....                          </tspan>
-    <tspan x="15" y="470">  ./##@&@@%%%%@&@&&&@@@%@%@@@%&&&&&&&@/## .......                          </tspan>
-    <tspan x="15" y="490">  ,#(%&%#&%%%&&&@@&&@@%%(/%#&#%&&%&%%%%/ .......                           </tspan>
-    <tspan x="15" y="510">. /%#%&&&&@%&&%&@&@&&%&#&(%&%&&@&&(%//#  .......                           </tspan>
-    </text>
-    
-    <image x="530" y="480" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="html5" width="40" height="40"></image>
-    <image x="580" y="480" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="html5" width="40" height="40"></image>
-    <image x="630" y="480" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="html5" width="40" height="40"></image>
-    <image x="680" y="480" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="html5" width="40" height="40"></image>
-    <image x="730" y="480" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="html5" width="40" height="40"></image>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="317.5mm" height="149.754mm"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<desc>Created by HiQPdf</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-    
-    <image x="700" y="145" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="html5" width="40" height="40"></image>
-    <image x="750" y="145" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></image>
-    <image x="800" y="145" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"></image>
-    <image x="850" y="145" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="html5" width="40" height="40"></image>
-    <image x="900" y="145" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html5" width="40" height="40"></image>
-    <image x="950" y="145" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="html5" width="40" height="40"></image>
-    <image x="1000" y="145" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="html5" width="40" height="40"></image>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADctor-maia-3726b0281/"><image x="530" y="400" href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html5" width="123" height="28"></image></a>
-    <a href="https://www.instagram.com/sirvictahh/"><image x="660" y="400" href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="html5" width="123" height="28"></image></a>
-    <a href="https://stackoverflow.com/users/14470113/sirvictahh"><image x="790" y="400" href="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="html5" width="123" height="28"></image></a>
-    <text x="530" y="30" fill="#c9d1d9">
-    <tspan x="530" y="30">joão@maia</tspan>
-    <tspan x="530" y="50">——————</tspan>
-    <tspan x="530" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11</tspan>
-    <tspan x="530" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years</tspan>
-    <tspan x="530" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Instituto Politécnico de Tomar</tspan><tspan class="commentColor"> #IPT</tspan>
-    <tspan x="530" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science and Engineering</tspan>
-    <tspan x="530" y="175" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor"></tspan>
-    <tspan x="530" y="215" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Portuguese, English, Spanish, French</tspan>
-    <tspan x="530" y="255" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Learn, Troubleshoot</tspan>
-    <tspan x="530" y="295" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Get Drunk, Sleep</tspan>
-    <tspan x="530" y="330" class="keyColor">Contact</tspan>:
-    <tspan x="530" y="350">——————</tspan>
-    <tspan x="530" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">joaovictormaia2004@hotmail.com</tspan>
-    <tspan x="530" y="390" class="keyColor">Discord</tspan>: <tspan class="valueColor">sirvictahh</tspan>
-    <tspan x="530" y="450" class="keyColor"><tspan class="commentColor">some</tspan>Tools</tspan>:
-    <tspan x="530" y="470">——————</tspan>
-    
-    </svg>
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,8,8)"
+>
+<path vector-effect="none" fill-rule="nonzero" d="M15,0 L1055,0 C1063.28,0 1070,6.71573 1070,15 L1070,515 C1070,523.284 1063.28,530 1055,530 L15,530 C6.71573,530 0,523.284 0,515 L0,15 C0,6.71573 6.71573,0 15,0 "/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >                    %..  ,                                                  </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >                 %..,....  *                                                </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >                 ,,,,......*          .                                     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >                /,,,.......                        .  .                     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >               ,,,,..,,....            . .(, ,/...                         </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >              .,,.........,  .  .   ../*(.,..###%. *                        </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >              ,,,.,.,.....   .,,/ ..((/##,.,,#%&amp;%#/,                       </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >            .,,...,......      #%(***(%#%#//(###,(*/, .                    </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="190" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >            .,..........,  .    (#,*#(%%&amp;%%%(#((.,/,.                      </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="190" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="210" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     .     .,........,,*. #..  .#(,((##%%%##%&amp;%%*(#(                       </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="210" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >          # ,....,..,., .,/ %(*,(#,*/#%&amp;(/&amp;&amp;&amp;#(/./#,                       </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >           /.. ....,. (/@/&amp;@&amp;(&amp;//#%/,//%%###/((.(*                         </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >              (../%%%@@@%@&amp;@@@@((#%(#***#%%%((,                            </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >         (....,#&amp;&amp;%@%&amp;&amp;&amp;@&amp;#@@%&amp;@##%((%/*,#                                 </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="310" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >      .. ..((%%@&amp;&amp;@&amp;&amp;@&amp;@&amp;&amp;@&amp;@@@@/(%///@@@@%                                </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="310" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     ....&amp;&amp;%%%%%@@@&amp;@@&amp;@&amp;@%&amp;@&amp;@@@/,(*@@&amp;&amp;#%                                </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >   ...  &amp;&amp;&amp;&amp;&amp;#&amp;@&amp;&amp;@@@@&amp;&amp;@%%&amp;&amp;@&amp;&amp;&amp;%@&amp;&amp;&amp;&amp;@@&amp;                                 </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     . %%&amp;%#&amp;%%&amp;@@&amp;&amp;@@&amp;@&amp;@&amp;@&amp;&amp;@&amp;@%&amp;%&amp;&amp;&amp;&amp;&amp;%                                 </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >      #&amp;&amp;%%(%%&amp;@%&amp;@&amp;@&amp;&amp;@&amp;@@&amp;%@@#@#&amp;(&amp;&amp;%&amp;@&amp;  ,.                             </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="410" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >    .*%%%%%#&amp;&amp;@&amp;&amp;@&amp;@@&amp;@@@#@@@@@@&amp;&amp;##(%@&amp;&amp;% .,,..                           </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="410" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >    .%%%@#&amp;#@@#&amp;@@&amp;@&amp;@&amp;@@&amp;@@@&amp;%&amp;@&amp;((&amp;&amp;%#%/ ,,,,,                           </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >   .#%%&amp;&amp;&amp;#%%@@&amp;%@@@%@@&amp;#&amp;&amp;&amp;&amp;&amp;#&amp;@&amp;*%@&amp;(*&amp; .,.....                          </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >  ./##@&amp;@@%%%%@&amp;@&amp;&amp;&amp;@@@%@%@@@%&amp;&amp;&amp;&amp;&amp;&amp;&amp;@/## .......                          </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >  ,#(%&amp;%#&amp;%%%&amp;&amp;&amp;@@&amp;&amp;@@%%(/%#&amp;#%&amp;&amp;%&amp;%%%%/ .......                           </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="510" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >. /%#%&amp;&amp;&amp;&amp;@%&amp;&amp;%&amp;@&amp;@&amp;&amp;%&amp;#&amp;(%&amp;%&amp;&amp;@&amp;&amp;(%//#  .......                           </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="510" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >joão@maia</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >——————</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >OS</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="548" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Windows 11</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Uptime</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >18 years</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Host</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Instituto Politécnico de Tomar</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#8b949e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="854" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ > #IPT</text>
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="899" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Kernel</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Computer Science and Engineering</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="890" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Languages</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >.</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="620" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Computer</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="692" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="710" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Languages</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >.</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="620" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Real</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Portuguese, English, Spanish, French</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="998" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Hobbies</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >.</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Software</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="692" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Learn, Troubleshoot</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="863" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Hobbies</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >.</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Real</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="638" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Get Drunk, Sleep</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="800" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Contact</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >:     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >——————</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Email</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="575" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >joaovictormaia2004@hotmail.com</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="863" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Discord</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >sirvictahh</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="701" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#8b949e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >some</text>
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >Tools</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >:     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >——————</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
+>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+ >          </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)"
+>
+</g>
+</g>
+</svg>
