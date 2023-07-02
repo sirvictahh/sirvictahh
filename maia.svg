@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="285.221mm" height="145.521mm"
  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
-<desc>Created by HiQPdf</desc>
 <defs>
 <linearGradient gradientUnits="userSpaceOnUse" x1="70.252" y1="1237.48" x2="170.659" y2="1151.09" id="gradient1">
     <stop offset="1e-07" stop-color="#5a9fd4" stop-opacity="1" />
