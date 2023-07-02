@@ -1,6 +1,5 @@
 <a>
-    <object data="https://raw.githubusercontent.com/sirvictahh/sirvictahh/main/maia.svg" type="image/svg+xml">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirvictahh/sirvictahh/main/maia.svg">
+    <object type="image/svg+xml">
       <img alt="João Víctor Maia's GitHub Profile README" src="https://raw.githubusercontent.com/sirvictahh/sirvictahh/main/maia.svg">
     </object>
   </a>
