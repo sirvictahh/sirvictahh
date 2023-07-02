@@ -6,7 +6,7 @@
 </a>
 
 <div align="center">
-<img class="img"  src="https://github-readme-stats.vercel.app/api?username=sirvictahh&show_icons=true&theme=dracula" />  
-<img class="img" height=196px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvictahh&theme=dracula&layout=compact" />
+<img class="img"  src="https://github-readme-stats.vercel.app/api?username=sirvictahh&show_icons=true&theme=vision-friendly-dark" />  
+<img class="img" height=196px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvictahh&theme=vision-friendly-dark&layout=compact" />
   
 </div>
