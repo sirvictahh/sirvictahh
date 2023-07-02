@@ -7,6 +7,6 @@
 
 <div align="center">
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=sirvictahh&show_icons=true&theme=radical" />  
-<img class="img" height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvictahh&theme=radical&layout=compact" />
+<img class="img" height=500 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirvictahh&theme=radical&layout=compact" />
   
 </div>
