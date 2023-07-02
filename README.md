@@ -1,3 +1,5 @@
 <a href="https://github.com/sirvictahh/sirvictahh">
-  <img src="https://raw.githubusercontent.com/sirvictahh/sirvictahh/main/info.svg"/>
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Andrew6rant/sirvictahh/main/info.svg">
+  </picture>
 </a>
