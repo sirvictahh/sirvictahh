@@ -6,7 +6,7 @@
 </a>
 
 <div align="center">
-  
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=sirvictahh&show_icons=true&theme=radical" />  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sirvictahh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
