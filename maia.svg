@@ -1599,7 +1599,7 @@
 </g>
 
 <g fill="#131313" fill-opacity="1" stroke="none" transform="matrix(0.3125,0,0,0.3125,808,153)">
-<path vector-effect="none" fill-rule="nonzero" d="M89.234,5.856 L81.85,5.856 L89.529,14.189 L89.529,18.156 L73.713,18.156 L73.713,13.511 L81.391,13.511 L73.713,5.178 L73.713,1.207 L89.234,1.207 L89.234,5.856 L89.234,5.856 M70.577,5.856 L63.193,5.856 L70.872,14.189 L70.872,18.156 L55.055,18.156 L55.055,13.511 L62.734,13.511 L55.055,5.178 L55.055,1.207 L70.577,1.207 L70.577,5.856 M52.103,6.046 L44.135,6.046 L44.135,13.317 L52.103,13.317 L52.103,18.156 L38.471,18.156 L38.471,1.207 L52.103,1.207 L52.103,6.046 L52.103,6.046"/>
+
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(0.3125,0,0,0.3125,808,153)">
@@ -2208,8 +2208,8 @@
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,544,408)">
 </g>
 <a href="https://www.linkedin.com/in/abelhamaia/">
-<g fill="#0077b5" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,544,408)">
-<path vector-effect="none" fill-rule="evenodd" d="M0,0 L111,0 L111,28 L0,28 L0,0"/>
+<g fill="#0077b5" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,539,408)">
+<path vector-effect="none" fill-rule="evenodd" d="M0,0 L123,0 L123,28 L0,28 L0,0"/>
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,544,408)">
@@ -2581,10 +2581,10 @@
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,668,408)">
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(0.997972,0,0,0.997972,668,408.028)">
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(0.997972,0,0,0.997972,668.5,408.028)">
 </g>
 <a href="https://www.instagram.com/sirvictahh/">
-<g transform="matrix(0.997972,0,0,0.997972,665,408.028)" stroke="none" fill-opacity="1" fill="#e4405f">
+<g transform="matrix(0.997972,0,0,0.997972,668.5,408.028)" stroke="none" fill-opacity="1" fill="#e4405f">
 <path vector-effect="none" fill-rule="evenodd" d="M0,0 L123.25,0 L123.25,28 L0,28 L0,0"/>
 </g>
 
