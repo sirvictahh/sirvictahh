@@ -6021,7 +6021,15 @@
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Windows 11</text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Windows 10/11 </text>
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#8b949e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">&amp; </text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="710" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Ubuntu</text>
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6079,7 +6087,7 @@
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">18 years</text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">19 years</text>
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
