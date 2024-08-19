@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="285.221mm" height="145.521mm" font-family="Consolas" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="285.221mm" height="145.521mm" font-family="Andale Mono,AndaleMono,Consolas,monospace" font-size="16px">
 <defs>
 <linearGradient gradientUnits="userSpaceOnUse" x1="70.252" y1="1237.48" x2="170.659" y2="1151.09" id="gradient1">
     <stop offset="1e-07" stop-color="#5a9fd4" stop-opacity="1"/>
@@ -37,7 +37,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30">     </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -51,7 +51,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" 
  >                    %                                                       </text>
 </g>
 
@@ -73,7 +73,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="30" 
  >     </text>
 </g>
 
@@ -91,7 +91,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" 
  >                     ..                                                     </text>
 </g>
 
@@ -113,7 +113,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="30" 
  >     </text>
 </g>
 
@@ -131,7 +131,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="30" 
  >                         ,                                                  </text>
 </g>
 
@@ -153,7 +153,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="30" 
  >     </text>
 </g>
 
@@ -171,7 +171,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="50" 
  >                 %                                                          </text>
 </g>
 
@@ -193,7 +193,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="50" 
  >     </text>
 </g>
 
@@ -211,7 +211,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="50" 
  >                  .. ....                                                   </text>
 </g>
 
@@ -233,7 +233,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="50" 
  >     </text>
 </g>
 
@@ -251,7 +251,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="50" 
  >                    ,      *                                                </text>
 </g>
 
@@ -273,7 +273,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="50" 
  >     </text>
 </g>
 
@@ -291,7 +291,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="70" 
  >                 ,,,,      *                                                </text>
 </g>
 
@@ -313,7 +313,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="70" 
  >     </text>
 </g>
 
@@ -331,7 +331,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="70" 
  >                     ......           .                                     </text>
 </g>
 
@@ -353,7 +353,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="70" 
  >     </text>
 </g>
 
@@ -371,7 +371,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="90" 
  >                /                                                           </text>
 </g>
 
@@ -393,7 +393,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="90" 
  >     </text>
 </g>
 
@@ -411,7 +411,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="90" 
  >                 ,,,                                                        </text>
 </g>
 
@@ -433,7 +433,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="90" 
  >     </text>
 </g>
 
@@ -451,7 +451,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="90" 
  >                    .......                        .  .                     </text>
 </g>
 
@@ -473,7 +473,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="90" 
  >     </text>
 </g>
 
@@ -491,7 +491,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="110" 
  >                   ..  ....            . .     ...                         </text>
 </g>
 
@@ -513,7 +513,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="110" 
  >     </text>
 </g>
 
@@ -531,7 +531,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="110" 
  >               ,,,,  ,,                    , ,                             </text>
 </g>
 
@@ -553,7 +553,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="110" 
  >     </text>
 </g>
 
@@ -571,7 +571,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="110" 
  >                                          (   /                            </text>
 </g>
 
@@ -593,7 +593,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="110" 
  >     </text>
 </g>
 
@@ -611,7 +611,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="130" 
  >              .  .........   .  .   ..   . ..    .                          </text>
 </g>
 
@@ -633,7 +633,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="130" 
  >     </text>
 </g>
 
@@ -651,7 +651,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="130" 
  >               ,,         ,            *   ,        *                        </text>
 </g>
 
@@ -673,7 +673,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="708" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="708" y="130" 
  >     </text>
 </g>
 
@@ -691,7 +691,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="130" 
  >                                      / (    ###%                           </text>
 </g>
 
@@ -713,7 +713,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="130" 
  >     </text>
 </g>
 
@@ -731,7 +731,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" 
  >              ,,, , ,         ,,         , ,,      ,                       </text>
 </g>
 
@@ -753,7 +753,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" 
  >     </text>
 </g>
 
@@ -771,7 +771,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" 
  >                 . . .....   .    ..      .                                </text>
 </g>
 
@@ -793,7 +793,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" 
  >     </text>
 </g>
 
@@ -811,7 +811,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" 
  >                                    (( ##    #%&amp;%#                         </text>
 </g>
 
@@ -833,7 +833,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" 
  >     </text>
 </g>
 
@@ -851,7 +851,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="150" 
  >                                /     /           /                        </text>
 </g>
 
@@ -873,7 +873,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="150" 
  >     </text>
 </g>
 
@@ -891,7 +891,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" 
  >            .  ..........                             .                    </text>
 </g>
 
@@ -913,7 +913,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" 
  >     </text>
 </g>
 
@@ -931,7 +931,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" 
  >             ,,    ,              ***           , * ,                      </text>
 </g>
 
@@ -953,7 +953,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" 
  >     </text>
 </g>
 
@@ -971,7 +971,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" 
  >                               #%(   (%#%#  (### (                         </text>
 </g>
 
@@ -993,7 +993,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" 
  >     </text>
 </g>
 
@@ -1011,7 +1011,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="170" 
  >                                          //       /                       </text>
 </g>
 
@@ -1033,7 +1033,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="170" 
  >     </text>
 </g>
 
@@ -1051,7 +1051,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="190" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="190" 
  >            . ..........   .                    .   .                      </text>
 </g>
 
@@ -1073,7 +1073,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="190" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="190" 
  >     </text>
 </g>
 
@@ -1091,7 +1091,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="190" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="190" 
  >             ,          ,  .      ,*              ,/,                       </text>
 </g>
 
@@ -1113,7 +1113,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="190" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="190" 
  >     </text>
 </g>
 
@@ -1131,7 +1131,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="190" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="190" 
  >                                (# *#(%%&amp;%%%(#((                           </text>
 </g>
 
@@ -1153,7 +1153,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="190" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="190" 
  >     </text>
 </g>
 
@@ -1171,7 +1171,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="210" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="210" 
  >     .     . ........   .  ..  .                                           </text>
 </g>
 
@@ -1193,7 +1193,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="210" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="210" 
  >     </text>
 </g>
 
@@ -1211,7 +1211,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="210" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="210" 
  >            ,        ,,*         ,             *                          </text>
 </g>
 
@@ -1233,7 +1233,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="210" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="210" 
  >     </text>
 </g>
 
@@ -1251,7 +1251,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="210" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="210" 
  >                          #    #( ((##%%%##%&amp;%% (#(                       </text>
 </g>
 
@@ -1273,7 +1273,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="210" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="210" 
  >     </text>
 </g>
 
@@ -1291,7 +1291,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" 
  >          #                 %(  (#   #%&amp;( &amp;&amp;&amp;#(   #                        </text>
 </g>
 
@@ -1313,7 +1313,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" 
  >     </text>
 </g>
 
@@ -1331,7 +1331,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" 
  >             .... .. .  .                       .                          </text>
 </g>
 
@@ -1353,7 +1353,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" 
  >     </text>
 </g>
 
@@ -1371,7 +1371,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" 
  >            ,    ,  , ,  ,    *,  ,*               ,                       </text>
 </g>
 
@@ -1393,7 +1393,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" 
  >     </text>
 </g>
 
@@ -1411,7 +1411,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="230" 
  >                          /         /    /     / /                         </text>
 </g>
 
@@ -1433,7 +1433,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="230" 
  >     </text>
 </g>
 
@@ -1451,7 +1451,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" 
  >            .. .... .                          .                           </text>
 </g>
 
@@ -1473,7 +1473,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" 
  >     </text>
 </g>
 
@@ -1491,7 +1491,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" 
  >                   ,                ,            *                         </text>
 </g>
 
@@ -1513,7 +1513,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" 
  >     </text>
 </g>
 
@@ -1531,7 +1531,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" 
  >           /           / /     //  / //     /                              </text>
 </g>
 
@@ -1553,7 +1553,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" 
  >     </text>
 </g>
 
@@ -1571,7 +1571,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="250" 
  >                      ( @ &amp;@&amp;(&amp;  #%    %%### (( (                          </text>
 </g>
 
@@ -1593,7 +1593,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="250" 
  >     </text>
 </g>
 
@@ -1611,7 +1611,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" 
  >              (   %%%@@@%@&amp;@@@@((#%(#   #%%%((                             </text>
 </g>
 
@@ -1633,7 +1633,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" 
  >     </text>
 </g>
 
@@ -1651,7 +1651,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" 
  >               ..                                                          </text>
 </g>
 
@@ -1673,7 +1673,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" 
  >     </text>
 </g>
 
@@ -1691,7 +1691,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" 
  >                 /                                                         </text>
 </g>
 
@@ -1713,7 +1713,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" 
  >     </text>
 </g>
 
@@ -1731,7 +1731,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="270" 
  >                                     ***      ,                            </text>
 </g>
 
@@ -1753,7 +1753,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="270" 
  >     </text>
 </g>
 
@@ -1771,7 +1771,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" 
  >          ....                                                          </text>
 </g>
 
@@ -1793,7 +1793,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="663" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="663" y="290" 
  >     </text>
 </g>
 
@@ -1811,7 +1811,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" 
  >         (     #&amp;&amp;%@%&amp;&amp;&amp;@&amp;#@@%&amp;@##%((%   #                                 </text>
 </g>
 
@@ -1833,7 +1833,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="290" 
  >     </text>
 </g>
 
@@ -1851,7 +1851,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" 
  >              ,                        *,                                  </text>
 </g>
 
@@ -1873,7 +1873,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="290" 
  >     </text>
 </g>
 
@@ -1891,7 +1891,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="290" 
  >                                      /                                    </text>
 </g>
 
@@ -1913,7 +1913,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="290" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="290" 
  >     </text>
 </g>
 
@@ -1931,7 +1931,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="310" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="310" 
  >      .. ..                                                                </text>
 </g>
 
@@ -1953,7 +1953,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="310" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="310" 
  >     </text>
 </g>
 
@@ -1971,7 +1971,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="310" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="310" 
  >           ((%%@&amp;&amp;@&amp;&amp;@&amp;@&amp;&amp;@&amp;@@@@ (%   @@@@%                                </text>
 </g>
 
@@ -1993,7 +1993,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="310" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="310" 
  >     </text>
 </g>
 
@@ -2011,7 +2011,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="310" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="310" 
  >                                /  ///                                     </text>
 </g>
 
@@ -2033,7 +2033,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="310" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="310" 
  >     </text>
 </g>
 
@@ -2051,7 +2051,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" 
  >     ....                                                                  </text>
 </g>
 
@@ -2073,7 +2073,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" 
  >     </text>
 </g>
 
@@ -2091,7 +2091,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" 
  >         &amp;&amp;%%%%%@@@&amp;@@&amp;@&amp;@%&amp;@&amp;@@@  ( @@&amp;&amp;#%                                </text>
 </g>
 
@@ -2113,7 +2113,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" 
  >     </text>
 </g>
 
@@ -2131,7 +2131,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" 
  >                                 /                                         </text>
 </g>
 
@@ -2153,7 +2153,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" 
  >     </text>
 </g>
 
@@ -2171,7 +2171,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="330" 
  >                                  , *                                      </text>
 </g>
 
@@ -2193,7 +2193,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="330" 
  >     </text>
 </g>
 
@@ -2211,7 +2211,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="350" 
  >        &amp;&amp;&amp;&amp;&amp;#&amp;@&amp;&amp;@@@@&amp;&amp;@%%&amp;&amp;@&amp;&amp;&amp;%@&amp;&amp;&amp;&amp;@@&amp;                                 </text>
 </g>
 
@@ -2233,7 +2233,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="350" 
  >     </text>
 </g>
 
@@ -2251,7 +2251,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="350" 
  >   ...                                                                      </text>
 </g>
 
@@ -2273,7 +2273,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="350" 
  >     </text>
 </g>
 
@@ -2291,7 +2291,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="370" 
  >       %%&amp;%#&amp;%%&amp;@@&amp;&amp;@@&amp;@&amp;@&amp;@&amp;&amp;@&amp;@%&amp;%&amp;&amp;&amp;&amp;&amp;%                                 </text>
 </g>
 
@@ -2313,7 +2313,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="370" 
  >     </text>
 </g>
 
@@ -2331,7 +2331,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="370" 
  >     .                                                                     </text>
 </g>
 
@@ -2353,7 +2353,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="370" 
  >     </text>
 </g>
 
@@ -2371,7 +2371,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="390" 
  >                                             .                             </text>
 </g>
 
@@ -2393,7 +2393,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="390" 
  >     </text>
 </g>
 
@@ -2411,7 +2411,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="390" 
  >                                            ,                              </text>
 </g>
 
@@ -2433,7 +2433,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="390" 
  >     </text>
 </g>
 
@@ -2451,7 +2451,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="390" 
  >      #&amp;&amp;%%(%%&amp;@%&amp;@&amp;@&amp;&amp;@&amp;@@&amp;%@@#@#&amp;(&amp;&amp;%&amp;@&amp;                                 </text>
 </g>
 
@@ -2473,7 +2473,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="390" 
  >     </text>
 </g>
 
@@ -2491,7 +2491,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="410" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="410" 
  >     *                                      ,,                             </text>
 </g>
 
@@ -2513,7 +2513,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="410" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="410" 
  >     </text>
 </g>
 
@@ -2531,7 +2531,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="410" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="410" 
  >    .                                      .  ..                           </text>
 </g>
 
@@ -2553,7 +2553,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="410" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="410" 
  >     </text>
 </g>
 
@@ -2571,7 +2571,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="410" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="410" 
  >      %%%%%#&amp;&amp;@&amp;&amp;@&amp;@@&amp;@@@#@@@@@@&amp;&amp;##(%@&amp;&amp;%                                 </text>
 </g>
 
@@ -2593,7 +2593,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="410" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="410" 
  >     </text>
 </g>
 
@@ -2611,7 +2611,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" 
  >                                           ,,,,,                           </text>
 </g>
 
@@ -2633,7 +2633,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="430" 
  >     </text>
 </g>
 
@@ -2651,7 +2651,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" 
  >    .                                                                  </text>
 </g>
 
@@ -2673,7 +2673,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="654" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="654" y="430" 
  >     </text>
 </g>
 
@@ -2691,7 +2691,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" 
  >     %%%@#&amp;#@@#&amp;@@&amp;@&amp;@&amp;@@&amp;@@@&amp;%&amp;@&amp;((&amp;&amp;%#%                                 </text>
 </g>
 
@@ -2713,7 +2713,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="430" 
  >     </text>
 </g>
 
@@ -2731,7 +2731,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="430" 
  >                                         /                                 </text>
 </g>
 
@@ -2753,7 +2753,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="430" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="430" 
  >     </text>
 </g>
 
@@ -2771,7 +2771,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="450" 
  >    #%%&amp;&amp;&amp;#%%@@&amp;%@@@%@@&amp;#&amp;&amp;&amp;&amp;&amp;#&amp;@&amp; %@&amp;( &amp;                                  </text>
 </g>
 
@@ -2793,7 +2793,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="450" 
  >     </text>
 </g>
 
@@ -2811,7 +2811,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="450" 
  >   .                                      . .....                          </text>
 </g>
 
@@ -2833,7 +2833,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="450" 
  >     </text>
 </g>
 
@@ -2851,7 +2851,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="450" 
  >                                  *    *   ,                               </text>
 </g>
 
@@ -2873,7 +2873,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="450" 
  >     </text>
 </g>
 
@@ -2891,7 +2891,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="470" 
  >    ##@&amp;@@%%%%@&amp;@&amp;&amp;&amp;@@@%@%@@@%&amp;&amp;&amp;&amp;&amp;&amp;&amp;@ ##                                  </text>
 </g>
 
@@ -2913,7 +2913,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="470" 
  >     </text>
 </g>
 
@@ -2931,7 +2931,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="470" 
  >  .                                      .......                          </text>
 </g>
 
@@ -2953,7 +2953,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="470" 
  >     </text>
 </g>
 
@@ -2971,7 +2971,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="470" 
  >   /                                  /                                     </text>
 </g>
 
@@ -2993,7 +2993,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="699" y="470" 
  >     </text>
 </g>
 
@@ -3011,7 +3011,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" 
  >   #(%&amp;%#&amp;%%%&amp;&amp;&amp;@@&amp;&amp;@@%%( %#&amp;#%&amp;&amp;%&amp;%%%%                                    </text>
 </g>
 
@@ -3033,7 +3033,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="490" 
  >     </text>
 </g>
 
@@ -3051,7 +3051,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" 
  >                                         .......                           </text>
 </g>
 
@@ -3073,7 +3073,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="490" 
  >     </text>
 </g>
 
@@ -3091,7 +3091,7 @@
 
 <g fill="#484848" fill-opacity="1" stroke="#484848" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#484848" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" 
  >  ,                                                                       </text>
 </g>
 
@@ -3113,7 +3113,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="490" 
  >     </text>
 </g>
 
@@ -3131,7 +3131,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="490" 
  >                         /             /                            </text>
 </g>
 
@@ -3153,7 +3153,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="627" y="490" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="627" y="490" 
  >     </text>
 </g>
 
@@ -3171,7 +3171,7 @@
 
 <g fill="#c6c6c6" fill-opacity="1" stroke="#c6c6c6" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="510" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c6c6c6" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="510" 
  >   %#%&amp;&amp;&amp;&amp;@%&amp;&amp;%&amp;@&amp;@&amp;&amp;%&amp;#&amp;(%&amp;%&amp;&amp;@&amp;&amp;(%  #                                    </text>
 </g>
 
@@ -3193,7 +3193,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="510" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="510" 
  >     </text>
 </g>
 
@@ -3211,7 +3211,7 @@
 
 <g fill="#6e6e6e" fill-opacity="1" stroke="#6e6e6e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="510" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#6e6e6e" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="510" 
  >  /                                 //                                    </text>
 </g>
 
@@ -3233,7 +3233,7 @@
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="510" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="681" y="510" 
  >     </text>
 </g>
 
@@ -3251,7 +3251,7 @@
 
 <g fill="#1f1f1f" fill-opacity="1" stroke="#1f1f1f" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)"
 >
-<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="510" font-family="Consolas" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#1f1f1f" fill-opacity="1" stroke="none" xml:space="preserve" x="15" y="510" 
  >.                                        .......                           </text>
 </g>
 
@@ -3268,7 +3268,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="510" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="510">     </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -5921,7 +5921,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="30">     </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -5934,36 +5934,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">joão@maia</text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="30" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">——————</text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="30">joão@maia</text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -5979,7 +5950,36 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="50" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="30">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="50">——————</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="50">     </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -5992,7 +5992,7 @@
 </g>
 
 <g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">OS</text>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="70">OS</text>
 </g>
 
 <g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6008,7 +6008,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="548" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="548" y="70">: </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6021,15 +6021,15 @@
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Windows 10/11 </text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="70">Windows 10/11 </text>
 </g>
 
 <g fill="#8b949e" fill-opacity="1" stroke="#8b949e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">&amp; </text>
+<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="690" y="70">&amp; </text>
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="710" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Ubuntu</text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="710" y="70">Ubuntu</text>
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6045,7 +6045,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="70" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="70">     </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6058,7 +6058,7 @@
 </g>
 
 <g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Uptime</text>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="90">Uptime</text>
 </g>
 
 <g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6074,65 +6074,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">19 years</text>
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="90" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Host</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="90">: </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6145,26 +6087,10 @@
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Instituto Politécnico de Tomar</text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="90">19 years</text>
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#8b949e" fill-opacity="1" stroke="#8b949e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="854" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal"> #IPT</text>
-</g>
-
-<g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6177,7 +6103,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="899" y="110" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="90">     </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6190,7 +6116,7 @@
 </g>
 
 <g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Kernel</text>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="110">Host</text>
 </g>
 
 <g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6206,7 +6132,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="110">: </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6219,535 +6145,13 @@
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Computer Science and Engineering</text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="110">Instituto Politécnico de Tomar</text>
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="890" y="130" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Languages</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">.</text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="620" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Computer</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="692" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="710" y="175" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Languages</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">.</text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="620" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Real</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Portuguese, English, Spanish, French</text>
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="998" y="215" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Hobbies</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">.</text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Software</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="692" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Learn, Troubleshoot</text>
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="863" y="255" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Hobbies</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">.</text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Real</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="638" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Get Drunk, Sleep</text>
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="800" y="295" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Contact</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="330" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">:     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">——————</text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="350" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Email</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="575" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">joaovictormaia2004@hotmail.com</text>
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="863" y="370" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Discord</text>
-</g>
-
-<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">: </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">sirvictahh</text>
-</g>
-
-<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="701" y="390" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">     </text>
-</g>
-
-<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6757,7 +6161,603 @@
 </g>
 
 <g fill="#8b949e" fill-opacity="1" stroke="#8b949e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">some</text>
+<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="854" y="110"> #IPT</text>
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="899" y="110">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="130">Kernel</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="130">: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="130">Computer Science and Engineering</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="890" y="130">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="175">Languages</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="175">.</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="620" y="175">Computer</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="692" y="175">: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="710" y="175">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="215">Languages</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="215">.</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="620" y="215">Real</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="215">: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="215">Portuguese, English, Spanish, French</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="998" y="215">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="255">Hobbies</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="255">.</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="255">Software</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="674" y="255">: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="692" y="255">Learn, Troubleshoot</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="863" y="255">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="295">Hobbies</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="295">.</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="602" y="295">Real</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="638" y="295">: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="656" y="295">Get Drunk, Sleep</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="800" y="295">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="330">Contact</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="330">:     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="350">——————</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="350">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="370">Email</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="575" y="370">: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="370">joaovictormaia2004@hotmail.com</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="863" y="370">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="390">Discord</text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="593" y="390">: </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="390">sirvictahh</text>
+</g>
+
+<g fill="#a5d6ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="701" y="390">     </text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
+</g>
+
+<g fill="#8b949e" fill-opacity="1" stroke="#8b949e" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
+<text fill="#8b949e" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="450">some</text>
 </g>
 
 <g fill="#8b949e" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6773,7 +6773,7 @@
 </g>
 
 <g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">Tools</text>
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="566" y="450">Tools</text>
 </g>
 
 <g fill="#ffa657" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6789,7 +6789,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="450" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">:     </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="611" y="450">:     </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6802,7 +6802,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">——————</text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="470">——————</text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
@@ -6818,7 +6818,7 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,8,8)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="470" font-family="Consolas" font-size="16" font-weight="400" font-style="normal">          </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="584" y="470">          </text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,8,8)">
